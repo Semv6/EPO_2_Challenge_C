@@ -1,0 +1,6 @@
+#ifndef EPO_2_CHALLENGE_C_LIBRARY_H
+#define EPO_2_CHALLENGE_C_LIBRARY_H
+
+void hello(void);
+
+#endif //EPO_2_CHALLENGE_C_LIBRARY_H
